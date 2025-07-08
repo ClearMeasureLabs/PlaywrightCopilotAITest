@@ -32,7 +32,8 @@ Now make it run against all available browsers, not just Chromium, and do it in 
 - The final result will be a C# console app that recursively tests all hyperlinks on www.clearmeasure.com in parallel across Chromium, Firefox, and WebKit browsers.
 
 ## Running the Project
-1. Restore dependencies:dotnet restore2. Run the project:dotnet run --project PlaywrightTest/PlaywrightTest.csproj
+1. Restore dependencies:dotnet restore
+2. Run the project:dotnet run --project PlaywrightTest/PlaywrightTest.csproj
 ---
 
 For more information on GitHub Copilot agent mode, see the [official documentation](https://docs.github.com/en/copilot).
