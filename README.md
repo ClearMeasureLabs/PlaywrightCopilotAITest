@@ -6,8 +6,8 @@ This repository demonstrates how to use GitHub Copilot in agent mode to iterativ
 - .NET 9 SDK
 - PowerShell 7 (pwsh) installed
   - To install PowerShell 7, run the following command in an elevated (Administrator) PowerShell window:```powershell
-winget install --id Microsoft.Powershell --source winget
-```- GitHub Copilot agent mode enabled in your IDE (see instructions below)
+winget install --id Microsoft.Powershell --source winget```
+	- GitHub Copilot agent mode enabled in your IDE (see instructions below)
 
 ## Enabling GitHub Copilot Agent Mode
 1. Make sure you have the latest version of Visual Studio or VS Code.
